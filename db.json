@@ -1,16 +1,124 @@
 {
-  "posts":[
+  "products": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "id": 1,
+      "title": "LANDSKRONA",
+      "price": 58990,
+      "category": "Furniture",
+      "description": "Warm and welcoming, neat and stylish. The supporting seat cushions, the cover’s soft finish and the tight fit gives this sofa a perfect balance between its comfort, functions and look.",
+      "image": "https://www.ikea.com/in/en/images/products/landskrona-3-seat-sofa-gunnared-light-green-metal__0825429_pe680188_s5.jpg?f=s"
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": 2,
+      "title": "GLADSTAD",
+      "price": 26990,
+      "category": "Furniture",
+      "description": "GLADSTAD upholstered bed frame with bed storage boxes has a clean and modern design with a padded headboard and soft cover. The storage boxes are easy to roll in under the bed – for practical storage.",
+      "image": "https://www.ikea.com/in/en/images/products/gladstad-upholstered-bed-2-storage-boxes-kabusa-light-grey__1101371_pe866632_s5.jpg?f=xxs"
+    },
+    {
+      "id": 3,
+      "title": "MICKE",
+      "price": 8490,
+      "category": "Furniture",
+      "description": "A clean and simple look that fits just about anywhere. You can combine it with other desks or drawer units in the MICKE series to extend your work space. The clever design at the back hides messy cables.",
+      "image": "https://www.ikea.com/in/en/images/products/micke-desk-white__0802383_ph161320_s5.jpg?f=xxs"
+    },
+    {
+      "id": 4,
+      "title": "FRIHETEN",
+      "price": 64990,
+      "category": "Furniture",
+      "description": "After a good night’s sleep, you can effortlessly convert your bedroom or guest room into a living room again. The built-in storage is easy to access and spacious enough to stow bedding, books and PJs.",
+      "image": "https://www.ikea.com/in/en/images/products/friheten-corner-sofa-bed-with-storage-bomstad-black__0829726_pe600308_s5.jpg?f=xxxs"
+    },
+    {
+      "id": 5,
+      "title": "ÄPPLARÖ",
+      "price": 7590,
+      "category": "Furniture",
+      "description": "Beauty that lasts, from sustainably sourced acacia. This modular sofa can be formed any way you like for long, lazy days and cold drinks with friends. Complements other parts of our ÄPPLARÖ series.",
+      "image": "https://www.ikea.com/in/en/images/products/aepplaroe-one-seat-section-outdoor-brown-stained__0916782_ph166334_s5.jpg?f=xxs"
+    },
+    {
+      "id": 6,
+      "title": "LERSTA",
+      "price": 1490,
+      "category": "Lighting",
+      "description": "This floor lamp in aluminium is perfect to have by the sofa or your favourite armchair. You can easily direct the lamp arm so you get the light exactly where you want it when sitting down to read.",
+      "image": "https://www.ikea.com/in/en/images/products/lersta-floor-reading-lamp-aluminium__0879517_pe611365_s5.jpg?f=xxs"
+    },
+    {
+      "id": 7,
+      "title": "FLUGBO",
+      "price": 1990,
+      "category": "Lighting",
+      "description": "The glass shade provides balanced general lighting throughout the room.",
+      "image": "https://www.ikea.com/in/en/images/products/flugbo-wall-lamp-wired-in-installation-brass-colour-glass__0916787_pe785397_s5.jpg?f=xxs"
+    },
+    {
+      "id": 8,
+      "title": "ISKÄRNA",
+      "price": 2490,
+      "category": "Lighting",
+      "description": "Unleash your creativity! This cool table lamp can change both colour and look. Personalise it with headphones, sunglasses or a groovy bandana. Tested to some of the world's toughest safety requirements.",
+      "image": "https://www.ikea.com/in/en/images/products/iskaerna-led-table-lamp-multicolour__0987898_pe818178_s5.jpg?f=xxs"
+    },
+    {
+      "id": 9,
+      "title": "JANSJÖ",
+      "price": 289,
+      "category": "Lighting",
+      "description": "A super-flexible lamp that lets you focus its bright light exactly where you need it. It’s slim, lightweight and easy to move around. The energy-saving LED light source provides 25 000 hours of light.",
+      "image": "https://www.ikea.com/in/en/images/products/jansjoe-led-usb-lamp-black__0879584_pe622862_s5.jpg?f=xxs"
+    },
+    {
+      "id": 10,
+      "title": "LEDSJÖ",
+      "price": 3990,
+      "category": "Lighting",
+      "description": "This lamp is like a pearl necklace that bejewels your bathroom. It illuminates the area around the mirror and sink with a bright, diffused light that is as pleasant to wake up to as it is to unwind.",
+      "image": "https://www.ikea.com/in/en/images/products/ledsjoe-led-wall-lamp-stainless-steel__0881436_pe619785_s5.jpg?f=xxs"
+    },
+    {
+      "id": 11,
+      "title": "METOD",
+      "price": 10950,
+      "category": "Kitchen & appliances",
+      "description": "You can customise spacing as you need, because the shelf is adjustable.",
+      "image": "https://www.ikea.com/in/en/images/products/metod-corner-wall-cabinet-with-carousel-white-veddinge-white__0865887_pe600667_s5.jpg?f=xxs"
+    },
+    {
+      "id": 12,
+      "title": "TILLREDA",
+      "price": 4590,
+      "category": "Kitchen & appliances",
+      "description": "This portable hob is perfect for smaller kitchens or wherever you need an extra cooking zone. It’s easy to move around and can be stowed away when not in use to free up counter space for other activities.",
+      "image": "https://www.ikea.com/in/en/images/products/tillreda-portable-induction-hob-1-zone-white__0965761_pe809596_s5.jpg?f=xxs"
+    },
+    {
+      "id": 13,
+      "title": "SKINANDE",
+      "price": 53490,
+      "category": "Kitchen & appliances",
+      "description": "5 year guarantee. Read about the terms in the guarantee brochure.",
+      "image": "https://www.ikea.com/in/en/images/products/skinande-integrated-dishwasher-grey__0870155_pe674117_s5.jpg?f=xxs"
+    },
+    {
+      "id": 14,
+      "title": "ANPASSA",
+      "price": 15990,
+      "category": "Kitchen & appliances",
+      "description": "5 year guarantee. Read about the terms in the guarantee brochure.",
+      "image": "https://www.ikea.com/in/en/images/products/anpassa-extractor-hood-stainless-steel__0868454_pe663133_s5.jpg?f=xxs"
+    },
+    {
+      "id": 15,
+      "title": "SUNNERSTA",
+      "price": 14890,
+      "category": "Kitchen & appliances",
+      "description": "A functional mini-kitchen series for the chef with limited space and budget – at home or in the guest house. Easy to assemble, or disassemble and bring with you if you are on the move.",
+      "image": "https://www.ikea.com/in/en/images/products/sunnersta-mini-kitchen__0870355_pe617171_s5.jpg?f=xxs"
     }
   ]
 }
